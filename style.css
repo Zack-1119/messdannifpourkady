@@ -1,0 +1,36 @@
+h1 
+{
+color:white;
+}
+
+body{
+  background : brown;
+}
+
+#carte
+{
+	width: 800px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	align-content:center;
+}
+
+h1
+{
+    font-family: calibri, serif;
+}
+h1
+{
+    font-style: italic;
+}
+
+h2
+{
+    font-family: copperplate, serif;
+}
+
+body
+{
+    font-family: arial, serif;
+}
